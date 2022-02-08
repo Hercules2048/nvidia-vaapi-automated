@@ -11,8 +11,8 @@ This script entirely automates the installation of all of the tools required to 
 
 #########################################################################\
 #########################################################################\
-This script makes use of the following tools(and more) :
-https://github.com/freedesktop/mesa-drm
-https://github.com/intel/libva
-https://git.videolan.org/git/ffmpeg/nv-codec-headers.git
+This script makes use of the following tools(and more) : \
+https://github.com/freedesktop/mesa-drm \
+https://github.com/intel/libva \
+https://git.videolan.org/git/ffmpeg/nv-codec-headers.git \
 https://github.com/elFarto/nvidia-vaapi-driver
