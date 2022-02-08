@@ -18,7 +18,7 @@ gfx.webrender.all  true \
 gfx.x11-egl.force-enabled  true \
 layers.acceleration.force-enabled  true \
 layers.force-active  true \ 
-gfx.canvas.accelerated true \
+gfx.canvas.accelerated true
 
 After applying these changes, close firefox nightly and reopen it with firefox.sh . You should have working VP9 and H264 video decoding in firefox now!
 
